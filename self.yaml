@@ -42,4 +42,8 @@ payload:
   - DOMAIN-SUFFIX,alfredapp.com
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,lobehub.com
+  - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,zggmd.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,ghproxy.com
   # MATCH 在这里并不是必须的
