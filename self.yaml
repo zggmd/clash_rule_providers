@@ -47,4 +47,5 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,liuyandong.com
+  - DOMAIN-KEYWORD,deepseek
   # MATCH 在这里并不是必须的
